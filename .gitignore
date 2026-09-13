@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.pio/
+firmware/sdkconfig
+firmware/sdkconfig.old
+firmware/sdkconfig.esp32-c3-supermini
+.idea/
+.vscode/
+dist/
+build/
+
